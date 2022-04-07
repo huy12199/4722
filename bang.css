@@ -1,0 +1,20 @@
+.khoi{
+    width: 350px;
+    height: 350px;
+    background-color: aqua;
+    border: 2px solid orange;
+}
+.banggoc{
+    width: 350px;
+    height: 350px;
+}
+.hang1{
+    background-color: blue;
+    color: red;
+}
+.cot51{
+    vertical-align: top;
+}
+th{
+    text-align: left;
+}
