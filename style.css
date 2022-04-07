@@ -1,0 +1,33 @@
+
+.form{
+     width: 380px;
+     height:250px;
+     border: 10px solid aqua;
+}
+.huy{
+width: 380px;
+    height: 250px;
+}
+.hang1 {
+    background-color: orange;
+    color: white;
+}
+.cot2{
+vertical-align: top;
+}
+.hang41, .hang42, .hang43{
+    color: red;
+}
+.cot0, .cot1, .cot2{
+    text-align: right;
+}
+.r1 {
+    border-width: 2px;
+    border: white;
+    border-style: inset ;
+}
+.r2{
+    border-width: 2px;
+    border: white;
+    border-style: inset ;
+}
